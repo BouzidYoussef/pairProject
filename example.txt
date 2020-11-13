@@ -1,0 +1,6 @@
+<div class="MagicSlideshow" data-options="kenburns: true;">
+    <img src="example1.jpg"/>
+    <img src="example2.jpg"/>
+    <img src="example3.jpg"/>
+    ...
+</div>
